@@ -4,7 +4,9 @@
 This repository consists of two Simulink® models for the design of a simple controller of a pacemaker device. The models and requirements were developed as a part of the elective course, "SFWRENG 3MD3 - Safe Software-Intensive Medical Devices”, provided at McMaster University (Canada) for the 2021-22 academic year. A replication package folder for both Simulink® Stateflow models is included in this repository, titled as "ReplicationPackage.zip". 
 
 ### Requirements 
-* MATLAB/Simulink (R2020a and later) 
+* MATLAB/Simulink® (R2020a and later) 
+* Stateflow®
+* DSP Toolbox
 * S-TaLiRo <sup>1 </sup> Matlab Toolbox 
   
 ### File Download and Description 
