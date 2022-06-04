@@ -1,4 +1,13 @@
-### Hi there 👋
+## Simulink® Models for a Simple Controller of a Pacemaker Device
+#### (Benchmark Proposal)
+
+This repository consists of two Simulink® models for the design of a simple controller of a pacemaker device. The models and requirements were developed as a part of an elective course, "SFWRENG 3MD3 - Safe Software-Intensive Medical Devices”, provided at McMaster University (Canada) for the 2021-22 academic year. 
+
+A replication package for both models is included in this repository 
+
+### Requirements 
+* MATLAB/Simulink (R2020a) 
+* S-TaLiRo <sup>1
 
 <!--
 **3MD3/3MD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
