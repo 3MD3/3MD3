@@ -9,12 +9,13 @@ The controllers were deployed on a FRDM-K64F microcontroller. A sample video can
 * MATLAB/Simulink® (R2020a and later) 
 * Stateflow®
 * DSP Toolbox
-* S-TaLiRo <sup>1 </sup> Matlab Toolbox 
+* S-Taliro Matlab Toolbox ([Download](https://www.assembla.com/spaces/s-taliro_public/subversion/source/HEAD/trunk))
   
 ### File Download and Description 
  * The file *ReplicationPackage.zip* consists of two folders, *Model1* and *Model2*. The models describe different approaches to the design of a pacemaker controller. 
  * Falsification-based testing was conducted on both proposed models with different requirements. The failing and the corrected models are included in the attached replication package. 
- * To successfully replicate the experiments, S-TaLiRo <sup>1 </sup> Matlab Toolbox must be installed and *Scenario1* and *Scenario2* scripts for the models should be in different folders. 
+ * To successfully replicate the experiments, S-TaLiRo <sup>1 </sup> Matlab Toolbox must be installed
+ * To replicate the experiments open the folder Model1 and Model2 and run the scripts *Scenario1* and *Scenario2* 
   
 ### Credits and Acknowledgment 
 
@@ -32,22 +33,13 @@ Teaching Assistant: Mostafa Ayesh
 We also thank Alan Wassyng, Guy Meyer, Michael Kehinde, for that preparing and improving the
 pacemaker assignment of the 3MD3 course over the years. 
   
-### References 
-1. Yashwanth Annpureddy, Che Liu, Georgios Fainekos, and Sriram Sankaranarayanan. S-TaLiRo: A
-tool for temporal logic falsification for hybrid systems. In Tools and Algorithms for the Construction
-and Analysis of Systems, pages 254–257. Springer, 2011.
+
   
-<!--
-**3MD3/3MD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Copyright
 
-Here are some ideas to get you started:
+Copyright (c) 2022 Namya Mehan, Ethan Dhanraj, Abdul El-Rahwan, Simon Emil Opalka, Tony Fan, Akil Hamilton, Akshay Mathews Jacob, Rahul Anthony Sundarrajan, Bryan Widjaja, Mostafa Ayesh, and Claudio Menghi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
