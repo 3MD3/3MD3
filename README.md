@@ -1,7 +1,7 @@
 ## Simulink® Models for a Simple Controller of a Pacemaker Device
 #### (Benchmark Proposal)
 
-This repository consists of two Simulink® models for the design of a simple controller of a pacemaker device. The models and requirements were developed as a part of the elective course, "SFWRENG 3MD3 - Safe Software-Intensive Medical Devices”, provided at McMaster University (Canada) for the 2021-22 academic year. A replication package folder for both Simulink® Stateflow models is included in this repository, titled as "ReplicationPackage.zip". 
+This repository consists of two Simulink® models for the design of a simple controller of a pacemaker device. The models and requirements were developed as a part of the elective course, "SFWRENG 3MD3 - Safe Software-Intensive Medical Devices”, provided at McMaster University (Canada) for the 2021-22 academic year. A replication package folder for both Simulink® Stateflow models is included in this repository. 
 
 The controllers were deployed on a FRDM-K64F microcontroller. A sample video can be found here:
 
@@ -12,7 +12,7 @@ The controllers were deployed on a FRDM-K64F microcontroller. A sample video can
 * S-Taliro Matlab Toolbox ([Download](https://www.assembla.com/spaces/s-taliro_public/subversion/source/HEAD/trunk))
   
 ### File Download and Description 
- * The file *ReplicationPackage.zip* consists of two folders, *Model1* and *Model2*. The models describe different approaches to the design of a pacemaker controller. 
+ * The repository consists of two folders, *Model1* and *Model2*. The models describe different approaches to the design of a pacemaker controller. 
  * Falsification-based testing was conducted on both proposed models with different requirements. The failing and the corrected models are included in the attached replication package. 
  * To successfully replicate the experiments, S-TaLiRo <sup>1 </sup> Matlab Toolbox must be installed
  * To replicate the experiments open the folder Model1 and Model2 and run the scripts *Scenario1* and *Scenario2* 
